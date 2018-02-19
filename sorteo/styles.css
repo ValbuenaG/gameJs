@@ -1,0 +1,28 @@
+body {
+	background-image: url(img/background2.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	
+}
+#btn{
+	margin-top: 50px;
+}
+
+
+#numero{
+	color: #fff;
+	font-size: 100px;
+	font-family: arial;
+	font-weight: bold;
+	height: 115px;
+	margin-top: 200px
+}
+.boton #btn{
+	padding-left: 20px
+}
+
+#btn{
+	height: 500px
+}
